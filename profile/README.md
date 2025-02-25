@@ -1,6 +1,6 @@
 # 🎮 Gamitech Club
 
-Gamitech Club is a fun passionate community of game developers. Founded by Abas at Jakarta State University, we’re all about learning, collaborating, and pushing the boundaries of creativity in game development. Whether you're a coding wizard, a design genius, an artist, or just curious about making games, you’re welcome here!
+Gamitech Club is a fun passionate community of game developers. We’re all about learning, collaborating, and pushing the boundaries of creativity in game development. Whether you're a coding wizard, a design genius, an artist, or just curious about making games, you’re welcome here!
 
 ## Activities 🕹️
 
